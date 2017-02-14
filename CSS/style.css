@@ -1,0 +1,20 @@
+body{
+  background: #c4f1e7;
+  color: #171ea8;
+  text-align: left;
+  font-family: "Times";
+}
+
+h2 {
+	color: #177158;
+    text-align: left;
+    font-family: "Times";
+}
+
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 90px;
+    text-align: left;
+}
